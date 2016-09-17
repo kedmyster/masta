@@ -8,15 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  projects:
-    title: projects
-    output: true
-    colors:
-    - red
-    - blue
-    - green
-    images:
-    - 
 defaults:
 - scope:
     path: ''
