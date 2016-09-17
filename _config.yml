@@ -8,6 +8,8 @@ collections:
   projects:
     title: Projects
     output: true
+    Images:
+    - 
   uploads:
     title: Uploads
     output: true
